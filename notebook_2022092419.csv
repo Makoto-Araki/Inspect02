@@ -1,0 +1,31 @@
+ランキング,商品名,URL,評価,評価数,価格
+1,ノートパソコンA1(Core i5/メモリ16G SSD-512G),https://python-data-collection.herokuapp.com/book/item1,5,1241,68500
+2,ノートパソコンB(CeleronN4020/メモリ8G SSD-512G),https://python-data-collection.herokuapp.com/book/item2,4.5,892,74300
+3,ノートパソコンC(AMD Ryzen 5/メモリ16G SSD-256G),https://python-data-collection.herokuapp.com/book/item3,4,702,81300
+4,ノートパソコンD(AMD Ryzen 7/メモリ4G SSD-512G),https://python-data-collection.herokuapp.com/book/item4,5,692,92400
+5,ノートパソコンE(Core i3/メモリ8G SSD-256G),https://python-data-collection.herokuapp.com/book/item5,4.5,840,49700
+6,ノートパソコンF(Core i7/メモリ8G SSD-256G),https://python-data-collection.herokuapp.com/book/item6,5,647,56200
+7,ノートパソコンG(CeleronN4020/メモリ4G SSD-512G),https://python-data-collection.herokuapp.com/book/item7,5,772,71900
+8,ノートパソコンH(Core i5/メモリ8G SSD-256G),https://python-data-collection.herokuapp.com/book/item8,4.5,786,47400
+9,ノートパソコンI(Core i3/メモリ8G SSD-512G),https://python-data-collection.herokuapp.com/book/item9,4,664,53800
+10,ノートパソコンJ(Core i7/メモリ4G SSD-1T),https://python-data-collection.herokuapp.com/book/item10,4.5,631,102400
+11,ノートパソコンK(AMD Ryzen 5/メモリ4G SSD-512G),https://python-data-collection.herokuapp.com/book/item11,4.5,562,121000
+12,ノートパソコンL(Core i7/メモリ16G SSD-1T),https://python-data-collection.herokuapp.com/book/item12,4,558,68400
+13,ノートパソコンM(CeleronN4020/メモリ16G SSD-256G),https://python-data-collection.herokuapp.com/book/item13,4.5,431,52300
+14,ノートパソコンN(AMD Ryzen 7/メモリ4G SSD-256G),https://python-data-collection.herokuapp.com/book/item14,4,378,79980
+15,ノートパソコンO(Core i5/メモリ8G SSD-512G),https://python-data-collection.herokuapp.com/book/item15,4.5,512,39790
+16,ノートパソコンP(CeleronN4020/メモリ4G SSD-512G),https://python-data-collection.herokuapp.com/book/item16,4,495,169800
+17,ノートパソコンQ(AMD Ryzen 5/メモリ8G SSD-1T),https://python-data-collection.herokuapp.com/book/item17,4.5,317,91000
+18,ノートパソコンR(Core i5/メモリ4G SSD-512G),https://python-data-collection.herokuapp.com/book/item18,4,365,47900
+19,ノートパソコンS(CeleronN4020/メモリ8G SSD-512G),https://python-data-collection.herokuapp.com/book/item19,4,383,64300
+20,ノートパソコンT(Core i7/メモリ16G SSD-256G),https://python-data-collection.herokuapp.com/book/item20,4,312,49500
+21,ノートパソコンU(AMD Ryzen 5/メモリ4G SSD-256G),https://python-data-collection.herokuapp.com/book/item21,4.5,265,112500
+22,ノートパソコンV(Core i3/メモリ8G SSD-512G),https://python-data-collection.herokuapp.com/book/item22,3.5,120,76300
+23,ノートパソコンW(CeleronN4020/メモリ8G SSD-512G),https://python-data-collection.herokuapp.com/book/item23,3,78,110200
+24,ノートパソコンX(AMD Ryzen 7/メモリ4G SSD-256G),https://python-data-collection.herokuapp.com/book/item24,3.5,32,98200
+25,ノートパソコンY(Core i3/メモリ8G SSD-256G),https://python-data-collection.herokuapp.com/book/item25,3,94,54500
+26,ノートパソコンZ(CeleronN4020/メモリ4G SSD-512G),https://python-data-collection.herokuapp.com/book/item26,2.5,23,68700
+27,ノートパソコンα(Core i5/メモリ16G SSD-256G),https://python-data-collection.herokuapp.com/book/item27,2.5,19,43200
+28,ノートパソコンβ(AMD Ryzen 5/メモリ4G SSD-512G),https://python-data-collection.herokuapp.com/book/item28,3,16,82900
+29,ノートパソコンγ(Core i3/メモリ8G SSD-512G),https://python-data-collection.herokuapp.com/book/item29,2,12,64000
+30,ノートパソコンΘ(CeleronN4020/メモリ8G SSD-256G),https://python-data-collection.herokuapp.com/book/item30,2.5,8,58000
